@@ -12,7 +12,7 @@ For every community calls, please follow these steps below in order and use the 
 9. [ ] Crafting the slides and related materials
 10. [ ] Work with the marketing department on the participant acquisition
 
-## How to create a Workshop Request?
+## How to create a Community Call Request?
 - Clone this repo using the below command
 ```
 git clone https://github.com/openguild-labs/community-calls.git
