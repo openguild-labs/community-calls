@@ -1,8 +1,6 @@
-# OpenGuild Community Workshops
-List of potential workshop topics can be found on [OpenGuild Handbook](https://handbook.openguild.wtf/hackathon-projects-and-events/dev-focused-activities/developer-workshops
-)
+# OpenGuild Community Calls
 ## Guidelines
-For every workshop, please follow these steps below in order and use the checklist feature to keep track of the logistic work:
+For every community calls, please follow these steps below in order and use the checklist feature to keep track of the logistic work:
 1. [ ] Deciding on who will be the `host` or `moderator`
 3. [ ] Which mode the workshop will be hosted as: `online` or `offline`
 2. [ ] Identify all the `guests` and `speakers`
@@ -20,9 +18,9 @@ For every workshop, please follow these steps below in order and use the checkli
 git clone https://github.com/openguild-labs/workshops.git
 ```
 - Or if you are not OpenGuild Labs member, fork the repository
-- Upload your slide work to `syllabus/workshops`. This repository uses `reveal.js` to help you render slides easily.
-- Name the slide following `major-event_your-workshop-slug-title.md`
-For example: `sub0_contributing-to-frame-and-polkadot-sdk.md`
+- Upload your slide work to `syllabus/community_calls`. This repository uses `reveal.js` to help you render slides easily.
+- Name the slide following `date-of-the-community-call.md`
+For example: `11-04-2024.md`
 
 ## Boilerplate
 ```
@@ -30,15 +28,14 @@ For example: `sub0_contributing-to-frame-and-polkadot-sdk.md`
 <!-- Replace `---` with your workshop information -->
 | Field name | Description | Field value |
 | ------------- | ------ | ------------- |
-| Title | Official name of the workshop | --- |
+| Title | Official name of the community call | --- |
 | Host | Name of the main host | --- |
 | Partners | Are there any external partners? | --- |
 | Spakers | List of speaker names | --- |
-| Description | Brief summary of the workshop content | --- |
-| Language | Which is the delivered language of the workshop? | --- |
+| Description | Brief summary of the community call content | --- |
+| Language | Which is the delivered language of the community call? | --- |
 | Date | When will it happen? | --- |
 | Mode | Offline or Online | --- |
-| Participants | Number of expecter participants | --- |
 
 ## Agenda
 
