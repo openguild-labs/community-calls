@@ -15,7 +15,7 @@ For every community calls, please follow these steps below in order and use the 
 ## How to create a Workshop Request?
 - Clone this repo using the below command
 ```
-git clone https://github.com/openguild-labs/workshops.git
+git clone https://github.com/openguild-labs/community-calls.git
 ```
 - Or if you are not OpenGuild Labs member, fork the repository
 - Upload your slide work to `syllabus/community_calls`. This repository uses `reveal.js` to help you render slides easily.
